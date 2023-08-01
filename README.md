@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hugsclane
 - 👀 I’m interested in ML, Math, Science and puzzles
 - 🌱 I’m currently learning Rust, and JS. 
-- 💞️ I’m looking to collaborate on anything that wil help me work professionally as a developer
+- 💞️ I’m looking to collaborate on anything community driven that I can help with, please DM me.
 - 📫 How to reach me mail.hugocl@gmail.com
 
 <!---
